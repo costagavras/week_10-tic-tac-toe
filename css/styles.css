@@ -1,0 +1,23 @@
+
+.field {
+ border: 1px solid #d3d3d3;
+ border-radius: .25rem;
+ text-align: center;
+ font-size: 100px;
+}
+
+.game-container {
+   display: grid;
+   grid-template-columns: 100px 100px 100px;
+   grid-template-rows: 100px 100px 100px;
+   grid-gap: 10px;
+   padding-left: 400px;
+}
+
+h1 {
+  padding-left: 475px;
+}
+
+h2{
+  padding-left: 350px;
+}
